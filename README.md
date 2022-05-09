@@ -1,3 +1,3 @@
-# Gestion-Note-Etudiant
+# Gestion-Notes-Etudiants
 
 PHP
